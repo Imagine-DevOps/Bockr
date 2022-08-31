@@ -1,4 +1,4 @@
-# Bocker
+# bocKer
 Docker implemented in around 100 lines of bash.
 
   * [Prerequisites](#prerequisites)
